@@ -1,0 +1,7 @@
+[user]
+	name = Maurycy Borkowski
+	email = maurycy.borkowski@gmail.com 
+[core]
+	editor = vim
+[pull]
+	rebase = true
